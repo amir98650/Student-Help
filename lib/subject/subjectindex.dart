@@ -1,0 +1,1 @@
+export 'subjectnamepage.dart';
